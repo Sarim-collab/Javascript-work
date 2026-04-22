@@ -17,3 +17,13 @@
 
 // question 3
 document.write("<h1>Rules for naming JS variables</h1>")
+let variableName1 = "numbers"
+let variableName2 = "$"
+let variableName3 = "_"
+let variableName4 = "letter"
+let variableName5 = "$"
+let variableName6 = "_"
+let variableName7 = "sensitive"
+let variableName8 = "keywords"
+
+document.write("Variable names can only contain " + variableName1 + ", " + variableName2 + ", " + variableName3 )
